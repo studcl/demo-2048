@@ -1,0 +1,22 @@
+{
+  "name": "dao-2048",
+  "version": "1.0.0",
+  "description": "[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/dao-2048)](https://artifacthub.io/packages/search?repo=dao-2048)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cl",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studcl/demo-2048.git"
+  },
+  "bugs": {
+    "url": "https://github.com/studcl/demo-2048/issues"
+  },
+  "homepage": "https://github.com/studcl/demo-2048#readme"
+}
